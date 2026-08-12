@@ -1,2 +1,17 @@
 # CCNA-Enterprise-Multi-Site
-Enterprise Multi-Site Network — VLAN, Inter-VLAN Routing &amp; OSPF
+│
+├── README.md
+├── general/
+│   ├── topology/
+│   ├── addressing/
+│   └── documentation/
+│
+└── configuration/
+    ├── R1/
+    ├── R2/
+    ├── SW-SiteA/
+    ├── SW-Access1/
+    ├── SW-Access2/
+    └── SW-SiteB/
+
+
